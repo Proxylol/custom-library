@@ -1156,4 +1156,5 @@ function Library:CreateWindow(title)
     return window
 end
 
+Library.NotificationSystem = NotificationSystem
 return Library
